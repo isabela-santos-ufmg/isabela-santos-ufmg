@@ -6,7 +6,7 @@
       💼 Computational Mathematics @ UFMG • 7th semester
       💻 Python, C++, SQL, Linux
       📖 Maching Learning and Data Science Enthusiast
-      🖋️ Currently I've been studyding Optmization, Numerical Linear Algebra and Estatistics for Maching Learning
+      🖋️ Currently studyding Optmization, Numerical Linear Algebra and Estatistics
       🎨 Music • Embroidery • Painting • Baking
   </pre>
   <br>
